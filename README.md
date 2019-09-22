@@ -1,5 +1,6 @@
 # Introducción al uso de Herramientas Analíticas Avanzadas en procedimientos de Auditoria I
 
+<a class="btn" href="https://github.com/raulbm/Curso-de-Herramientas-analiticas-para-auditoria-I">View on GitHub</a>
 
 Los retos a los que se enfrenta la auditoría han ido cambiando en el tiempo y en lo que respecta a la información ocurre igual. Anteriormente las dificultades en este sentido eran la escasa información, la dificultad en su obtención y el enorme coste de tratarla, sin embargo, hoy la información ha dejado de ser escasa, incrementando exponencialmente su volumen, pudiéndose distinguir entre estructurada y no estructurada, small data y Big data, procediendo de multitud de fuentes tales como la web, redes sociales, sistemas ERP, Portales públicos de datos (open data), etc. La gestión de la información se ha erigido en un valor estratégico para las empresas que dedican cada vez más recursos a su tratamiento y explotación. El auditor, debe jugar un papel de protagonismo en la transformación digital que está sufriendo el tejido empresarial y para ello debe desarrollar habilidades analíticas para la obtención, tratamiento, modelado y análisis de la información financiera e incluso la no financiera. 
 
