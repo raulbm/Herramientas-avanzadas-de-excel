@@ -1,5 +1,5 @@
 # Indice del curso
-## [Volver](/Curso-de-Herramientas-analiticas-para-auditoria-I/readme.md)
+## [Volver](/Curso-de-Herramientas-analiticas-para-auditoria-I/)
 
 0. 	Introducción.
 *	Intro al autoservicio de BI
