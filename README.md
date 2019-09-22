@@ -50,7 +50,7 @@ Este curso se realiza en 8 horas presenciales.
 
 1. 	Obtener y Transformar Datos (Power Query)
 	Los ejemplos estarán relacionados con diarios contables.
-1.1	Obteniendo Datos
+ 1.1.	Obteniendo Datos
 *	Conectar a un Archivo Plano (CSV, TXT, TAB)
 *	Conectar a un Archivo de Excel en Uso
 *	Conectar a un Archivo de Excel Externo
