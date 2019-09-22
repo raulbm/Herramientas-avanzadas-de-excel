@@ -41,5 +41,5 @@ Podrán impartir la formación indistintamente:
 # Duración  
 Este curso se realiza en 8 horas presenciales. 
 
-# Programa: (8h)
+# [Programa: (8h)](/pages/Indice_curso.md)
 
