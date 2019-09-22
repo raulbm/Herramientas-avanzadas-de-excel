@@ -1,35 +1,37 @@
 ##### [Volver](/Curso-de-Herramientas-analiticas-para-auditoria-I/)
 
 # Indice del curso
-0. 	Introducción.
+
+## Introducción.
     *	Intro al autoservicio de BI
     *	Ruta de aprendizaje y habilitar los componentes
-1. 	Obtener y Transformar Datos (Power Query)
-   1. Los ejemplos estarán relacionados con diarios contables.
-   1. Obteniendo Datos
-   1.	Conectar a un Archivo Plano (CSV, TXT, TAB)
-   1.	Conectar a un Archivo de Excel en Uso
-   1.	Conectar a un Archivo de Excel Externo
-   1.	Conectar a datos web
-   1.	Anular Dinamización
-   1.	Anexar Datos
-   1.	Combinar Datos de una Carpeta
-   1.	Manejando Errores en Power Query
-   1.	Fusionar Tablas 
-   1.	Conectar a una Base de Datos de Access
-   1.	Conectar a una Base de Datos (SQL Server)
-   1.	Agrupar Datos
-   1.	Transponer Datos en Columnas
-   1.	Transponer Datos en Filas
-   1.	Dividir Columnas en Columnas
-   1.	Agregar Nuevas Columnas a partir de Columnas Existentes
-   1.	Agregar Columnas Personalizadas
-1. 	Modelado de Datos (Power Pivot)
-   1.	Ejemplos basados en diario contable para obtener Balance de sumas y saldos.
-   1.	Tablas Dinámicas Tradicionales vs Tablas Dinámicas Modernas
-   1.	Relaciones entre Tablas
-   1.	Columnas Calculadas y Medidas
-   1.	Las herramientas y el Modelo de Datos
+## Obtener y Transformar Datos (Power Query)
+  1. Los ejemplos estarán relacionados con diarios contables.
+  1. Obteniendo Datos
+  1.	Conectar a un Archivo Plano (CSV, TXT, TAB)
+  1.	Conectar a un Archivo de Excel en Uso
+  1.	Conectar a un Archivo de Excel Externo
+  1.	Conectar a datos web
+  1.	Anular Dinamización
+  1.	Anexar Datos
+  1.	Combinar Datos de una Carpeta
+  1.	Manejando Errores en Power Query
+  1.	Fusionar Tablas 
+  1.	Conectar a una Base de Datos de Access
+  1.	Conectar a una Base de Datos (SQL Server)
+  1.	Agrupar Datos
+  1.	Transponer Datos en Columnas
+  1.	Transponer Datos en Filas
+  1.	Dividir Columnas en Columnas
+  1.	Agregar Nuevas Columnas a partir de Columnas Existentes
+  1.	Agregar Columnas Personalizadas
+
+## Modelado de Datos (Power Pivot)
+  1.	Ejemplos basados en diario contable para obtener Balance de sumas y saldos.
+  1.	Tablas Dinámicas Tradicionales vs Tablas Dinámicas Modernas
+  1.	Relaciones entre Tablas
+  1.	Columnas Calculadas y Medidas
+  1.	Las herramientas y el Modelo de Datos
 
 
 Al final de la jornada el alumno será capaz de:
