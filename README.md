@@ -12,6 +12,7 @@ Los principales objetivos del curso son mostrar a los participantes cómo:
 *	Preparar y enriquecer los datos
 *	Modelizar los datos para el análisis y aplicación de técnicas analíticas en procedimientos de auditoría.
 *	Preparar la visualización de los datos.
+
 ![Proceso de Bi](/images/Proceso_BI.png)
 
 # Metodología
@@ -56,7 +57,7 @@ Este curso se realiza en 8 horas presenciales.
 *	Anular Dinamización
 *	Anexar Datos
 *	Combinar Datos de una Carpeta
-*   Manejando Errores en Power Query
+*	Manejando Errores en Power Query
 *	Fusionar Tablas 
 *	Conectar a una Base de Datos de Access
 *	Conectar a una Base de Datos (SQL Server)
