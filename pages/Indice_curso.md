@@ -2,9 +2,9 @@
 
 # Indice del curso
 
-## Introducción.
-    *	Intro al autoservicio de BI
-    *	Ruta de aprendizaje y habilitar los componentes
+## Introducción
+  *	Intro al autoservicio de BI
+  *	Ruta de aprendizaje y habilitar los componentes
 ## Obtener y Transformar Datos (Power Query)
   1. Los ejemplos estarán relacionados con diarios contables.
   1. Obteniendo Datos
