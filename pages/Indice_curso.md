@@ -6,7 +6,6 @@
   *	Intro al autoservicio de BI
   *	Ruta de aprendizaje y habilitar los componentes
 ## Obtener y Transformar Datos (Power Query)
-1. ETL
   1. Obteniendo Datos
   1.	Conectar a un Archivo Plano (CSV, TXT, TAB)
   1.	Conectar a un Archivo de Excel en Uso
@@ -23,7 +22,10 @@
   1.	Agrupar Datos
   1. Manejo de consultas
   1. Crear una tabla calendario
-  1. Trabajar con columnas (subdividir, nuevas y personalizadas) 
+  1. Trabajar con columnas (subdividir, nuevas y personalizadas) <a href="#"> <i class="fas fa-file-excel"></i></a> 
+
+
+
  
 ## Modelado de Datos (Power Pivot)
   Ejemplos basados en diario contable para obtener Balance de sumas y saldos.
