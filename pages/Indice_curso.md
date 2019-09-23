@@ -22,7 +22,7 @@
  14 1.	Agrupar Datos
  15 1. Manejo de consultas
  16 1. Crear una tabla calendario
- 17.	Trabajar con columnas (subdividir, nuevas y personalizadas) <i class="fas fa-file-excel"></i>
+ 17.	Trabajar con columnas (subdividir, nuevas y personalizadas) <i class="fas fa-file-excel"><h1>hola</h1></i>
 
 ## Modelado de Datos (Power Pivot)
   Ejemplos basados en diario contable para obtener Balance de sumas y saldos.
