@@ -6,7 +6,6 @@
   *	Intro al autoservicio de BI
   *	Ruta de aprendizaje y habilitar los componentes
 ## Obtener y Transformar Datos (Power Query)
-  1. Los ejemplos estarán relacionados con diarios contables.
   1. Obteniendo Datos
   1.	Conectar a un Archivo Plano (CSV, TXT, TAB)
   1.	Conectar a un Archivo de Excel en Uso
@@ -27,7 +26,7 @@
   1.	Agregar Columnas Personalizadas
 
 ## Modelado de Datos (Power Pivot)
-  1.	Ejemplos basados en diario contable para obtener Balance de sumas y saldos.
+  Ejemplos basados en diario contable para obtener Balance de sumas y saldos.
   1.	Tablas Dinámicas Tradicionales vs Tablas Dinámicas Modernas
   1.	Relaciones entre Tablas
   1.	Columnas Calculadas y Medidas
