@@ -1,4 +1,5 @@
 ##### [Volver](/Curso-de-Herramientas-analiticas-para-auditoria-I/)
+<script src="https://kit.fontawesome.com/065728df02.js" crossorigin="anonymous"></script>
 
 # Indice del curso
 
