@@ -6,26 +6,25 @@
   *	Intro al autoservicio de BI
   *	Ruta de aprendizaje y habilitar los componentes
 ## Obtener y Transformar Datos (Power Query)
+1. ETL
   1. Obteniendo Datos
- 2 1.	Conectar a un Archivo Plano (CSV, TXT, TAB)
- 3 1.	Conectar a un Archivo de Excel en Uso
- 4 1.	Conectar a un Archivo de Excel Externo
- 5 1.	Manejando Errores en Power Query
- 6 1.	Combinar Datos de una Carpeta
- 7 1.	Conectar a datos web
- 8 1.	Conectar a una Base de Datos de Access
- 9 1.	Conectar a una Base de Datos (SQL Server)
- 10 1.	Anexar datos
- 11 1.	Combinar Tablas 
- 12 1.	Transponer Datos en Columnas y/o Filas
- 13 1.	Anular Dinamización
- 14 1.	Agrupar Datos
- 15 1. Manejo de consultas
- 16 1. Crear una tabla calendario
- 17.	Trabajar con columnas (subdividir, nuevas y personalizadas) 
- <script src="https://kit.fontawesome.com/065728df02.js" crossorigin="anonymous"></script>
- <i class="fas fa-file-excel"><h1>hola</h1></i>
-
+  1.	Conectar a un Archivo Plano (CSV, TXT, TAB)
+  1.	Conectar a un Archivo de Excel en Uso
+  1.	Conectar a un Archivo de Excel Externo
+  1.	Manejando Errores en Power Query
+  1.	Combinar Datos de una Carpeta
+  1.	Conectar a datos web
+  1.	Conectar a una Base de Datos de Access
+  1.	Conectar a una Base de Datos (SQL Server)
+  1.	Anexar datos
+  1.	Combinar Tablas 
+  1.	Transponer Datos en Columnas y/o Filas
+  1.	Anular Dinamización
+  1.	Agrupar Datos
+  1. Manejo de consultas
+  1. Crear una tabla calendario
+  1. Trabajar con columnas (subdividir, nuevas y personalizadas) 
+ 
 ## Modelado de Datos (Power Pivot)
   Ejemplos basados en diario contable para obtener Balance de sumas y saldos.
   1.	Tablas Dinámicas Tradicionales vs Tablas Dinámicas Modernas
