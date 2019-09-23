@@ -1,21 +1,20 @@
 ##### [Volver](/Curso-de-Herramientas-analiticas-para-auditoria-I/)
-
-
+<script src="https://kit.fontawesome.com/065728df02.js" crossorigin="anonymous"></script>
 # Indice del curso
 
 ## Introducción
-  *	Intro al autoservicio de BI <i class="far fa-file-pdf"></i>
-  *	Ruta de aprendizaje y habilitar los componentes <i class="far fa-file-word"></i>
+  *	Intro al autoservicio de BI <a href="#"><i class="far fa-file-pdf"></i></a> 
+  *	Ruta de aprendizaje y habilitar los componentes <a href="#"><i class="far fa-file-word"></i></a> 
 ## Obtener y Transformar Datos (Power Query)
   1. Obteniendo Datos
   1.	Conectar a un Archivo Plano (CSV, TXT, TAB) <a href="#"><i class="far fa-file-code"></i> </a>
   1.	Conectar a un Archivo de Excel en Uso
   1.	Conectar a un Archivo de Excel Externo
   1.	Manejando Errores en Power Query
-  1.	Combinar Datos de una Carpeta  <i class="far fa-file-archive"></i>
+  1.	Combinar Datos de una Carpeta  <a href="#"><i class="far fa-file-archive"></i></a> 
   1.	Conectar a datos web
-  1.	Conectar a una Base de Datos de Access <i class="fas fa-database"></i>
-  1.	Conectar a una Base de Datos (SQL Server) <i class="fas fa-database"></i>
+  1.	Conectar a una Base de Datos de Access <a href="#"><i class="fas fa-database"></i></a> 
+  1.	Conectar a una Base de Datos (SQL Server) <a href="#"><i class="fas fa-database"></i></a> 
   1.	Anexar datos
   1.	Combinar Tablas 
   1.	Transponer Datos en Columnas y/o Filas
@@ -23,7 +22,7 @@
   1.	Agrupar Datos
   1. Manejo de consultas
   1. Crear una tabla calendario
-  1. Trabajar con columnas (subdividir, nuevas y personalizadas) <a href="#"> <i class="fas fa-file-excel"></i>enlace</a> 
+  1. Trabajar con columnas (subdividir, nuevas y personalizadas) <a href="#"> <i class="fas fa-file-excel"></i></a> 
 
 
 
