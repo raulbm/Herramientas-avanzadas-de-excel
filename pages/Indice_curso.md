@@ -23,7 +23,7 @@
   1.	Agrupar Datos
   1. Manejo de consultas
   1. Crear una tabla calendario
-  1. Trabajar con columnas (subdividir, nuevas y personalizadas) <a href="#"> <i class="fas fa-file-excel"></i></a> 
+  1. Trabajar con columnas (subdividir, nuevas y personalizadas) <a href="#"> <i class="fas fa-file-excel"></i>enlace</a> 
 
 
 
