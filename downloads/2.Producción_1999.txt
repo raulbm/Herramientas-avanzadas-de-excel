@@ -1,4 +1,4 @@
-SKU	Fecha	Cantidad	Tiempo de Producción	Bodega
+SKU	Fecha	Cantidad	Tiempo de Producción	Almacén
 B06	1/12/1999	150	12	All Out
 B06	1/12/1999	150	12	All Out
 C10	1/12/1999	216	14	All Out
