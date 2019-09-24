@@ -8,7 +8,7 @@
 ## Obtener y Transformar Datos (Power Query)
   1. Obteniendo Datos
   1.	Conectar a un Archivo Plano (CSV <a href="/Curso-de-Herramientas-analiticas-para-auditoria-I/downloads/2.Producción_2015.CSV"><i class="far fa-file-code"></i> </a>, TXT <a href="/Curso-de-Herramientas-analiticas-para-auditoria-I/downloads/2.Producción_1999.txt"><i class="far fa-file-code"></i> </a>, TAB) 
-  1.	Conectar a un Archivo de Excel en Uso ( <a href="/Curso-de-Herramientas-analiticas-para-auditoria-I/downloads/3.Ventas_Por_Pais_1.xlsx"><i class="fas fa-file-excel"></i> </a>,  <a href="/Curso-de-Herramientas-analiticas-para-auditoria-I/downloads/3.Ventas_Por_Pais_2.xlsx"><i class="fas fa-file-excel"></i> </a>)
+  1.	Conectar a un Archivo de Excel en Uso ( <a href="/Curso-de-Herramientas-analiticas-para-auditoria-I/downloads/3.Ventas%20Por%20Pais%201.xlsx"><i class="fas fa-file-excel"></i> </a>,  <a href="/Curso-de-Herramientas-analiticas-para-auditoria-I/downloads/3.Ventas Por Pais 2.xlsx"><i class="fas fa-file-excel"></i> </a>)
   1.	Conectar a un Archivo de Excel Externo
   1.	Manejando Errores en Power Query
   1.	Combinar Datos de una Carpeta  <a href="#"><i class="far fa-file-archive"></i></a> 
