@@ -27,17 +27,16 @@
 
  
 ## Modelado de Datos (Power Pivot)
-  Ejemplos basados en diario contable para obtener Balance de sumas y saldos.
+  Ejemplos basados en diario contable para obtener como resultado un Balance de comprobación.
   1.	Tablas Dinámicas Tradicionales vs Tablas Dinámicas Modernas
   1.	Relaciones entre Tablas
   1.	Columnas Calculadas y Medidas
   1.	Las herramientas y el Modelo de Datos
 
-
-Al final de la jornada el alumno será capaz de:
+## Casos prácticos
 *	Importar diarios contables procedentes de diferentes fuentes y tratar las peculiaridades de los diferentes formatos de cada uno.
-*	También sabrá realizar un cuadre de Bases imponibles y cuotas entre el Libro diario y el Libro registro de IVA, 
-*	Realizar un procedimiento para comprobar la coincidencia entre apertura y cierre de diarios contables.
-*	Construir un Análisis del Ageing de las cuentas a cobrar. 
+*	Cuadre de Bases imponibles y cuotas entre el Libro diario y el Libro registro de IVA, 
+*	Pocedimiento para comprobar la coincidencia entre apertura y cierre de diarios contables.
+*	Análisis del Ageing de las cuentas a cobrar. 
 *	Obtener un Balance de sumas y saldos o comprobación de la entidad auditada.
 
