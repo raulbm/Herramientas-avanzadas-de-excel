@@ -7,7 +7,7 @@
   *	Ruta de aprendizaje y habilitar los componentes <a href="#"><i class="far fa-file-word"></i></a> 
 ## Obtener y Transformar Datos (Power Query)
   1. Obteniendo Datos
-  1.	Conectar a un Archivo Plano (CSV <a href="/Curso-de-Herramientas-analiticas-para-auditoria-I/downloads/2.Producción_2015.CSV"><i class="far fa-file-code"></i> </a>, TXT <a href="/Curso-de-Herramientas-analiticas-para-auditoria-I/downloads/2.Producción_1999.txt"><i class="far fa-file-code"></i> </a>, TAB) 
+  1.	Conectar a un Archivo Plano (CSV <a href="/downloads/2.Producción_2015.CSV"><i class="far fa-file-code"></i> </a>, TXT <a href="/downloads/2.Producción_1999.txt"><i class="far fa-file-code"></i> </a>, TAB) 
   1.	Conectar a un Archivo de Excel en Uso
   1.	Conectar a un Archivo de Excel Externo
   1.	Manejando Errores en Power Query
