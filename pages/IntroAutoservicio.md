@@ -32,6 +32,4 @@ A continuación se facilitan enlaces explicativos de como habilitar dichos compl
 * [Habilitar Power Pivot](https://support.office.com/es-es/article/iniciar-el-complemento-power-pivot-para-excel-a891a66d-36e3-43fc-81e8-fc4798f39ea8)
 
 
-! http://trucosycursos.es/power-query-para-excel/?cn-reloaded=1
-
 
