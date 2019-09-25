@@ -1,4 +1,4 @@
-##### [Volver](/Curso-de-Herramientas-analiticas-para-auditoria-I/pages/Indice_curso.md)
+##### [Volver](/Curso-de-Herramientas-analiticas-para-auditoria-I/pages/Indice_curso.html)
 <script src="https://kit.fontawesome.com/065728df02.js" crossorigin="anonymous"></script>
 
 # Introducción al autoservicio de BI
@@ -32,6 +32,6 @@ A continuación se facilitan enlaces explicativos de como habilitar dichos compl
 * [Habilitar Power Pivot](https://support.office.com/es-es/article/iniciar-el-complemento-power-pivot-para-excel-a891a66d-36e3-43fc-81e8-fc4798f39ea8)
 
 
-[//] # ( http://trucosycursos.es/power-query-para-excel/?cn-reloaded=1)
+! http://trucosycursos.es/power-query-para-excel/?cn-reloaded=1
 
 
