@@ -3,8 +3,9 @@
 # Indice del curso
 
 ## Introducción
-  *	Intro al autoservicio de BI <a href="#"><i class="far fa-file-pdf"></i></a> 
-  *	Ruta de aprendizaje y habilitar los componentes <a href="#"><i class="far fa-file-word"></i></a> 
+  *	[Intro al autoservicio de BI, ruta de aprendizaje y habilitar los componentes](https://raulbm.github.io/Curso-de-Herramientas-analiticas-para-auditoria-I/pages/IntroAutoservicio.html) 
+  
+  
 ## Obtener y Transformar Datos (Power Query)
   1. Obteniendo Datos
   1.	Conectar a un Archivo Plano (CSV <a href="/Curso-de-Herramientas-analiticas-para-auditoria-I/downloads/2.Producción_2015.CSV"><i class="far fa-file-code"></i> </a>, TXT <a href="/Curso-de-Herramientas-analiticas-para-auditoria-I/downloads/2.Producción_1999.txt"><i class="far fa-file-code"></i> </a>, TAB) 
