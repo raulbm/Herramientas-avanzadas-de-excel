@@ -2,8 +2,6 @@
 <script src="https://kit.fontawesome.com/065728df02.js" crossorigin="anonymous"></script>
 # Indice del curso
 
-[Enlace para descargar todos las soluciones a los ejercios en un zip](https://raulbm.github.io/Curso-de-Herramientas-analiticas-para-auditoria-I/downloads/Soluciones.zip)
-
 
 ## Caso 1 - Analisis inventario y pedidos
 El objetivo es auditar diariamente la cantidad de pedidos ingresado a la empresa y cruzarlo con el inventarios disponibles para determinar el nivel de respuesta, es decir, si con este inventario se suple o no la demanda requerida.
