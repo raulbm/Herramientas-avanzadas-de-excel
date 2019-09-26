@@ -1,6 +1,8 @@
-##### [Volver](/Curso-de-Herramientas-analiticas-para-auditoria-I/)
+##### [Volver](/Curso-de-Herramientas-analiticas-para-auditoria-I/pages/Indice_curso.html)
 <script src="https://kit.fontawesome.com/065728df02.js" crossorigin="anonymous"></script>
 # Indice del curso
+
+[Enlace para descargar todos las soluciones a los ejercios en un zip](https://raulbm.github.io/Curso-de-Herramientas-analiticas-para-auditoria-I/donwloads/Soluciones.zip)
 
 ## Introducción
   *	 ...
