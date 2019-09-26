@@ -42,7 +42,7 @@
 *	Obtener un Balance de sumas y saldos o comprobación de la entidad auditada. `diario 2016 sin aux.csv` <a href="/Curso-de-Herramientas-analiticas-para-auditoria-I/downloads/diario_2016_sin_aux.csv"><i class="far fa-file-archive"></i> </a>, `diario 2017 sin aux.csv` <a href="/Curso-de-Herramientas-analiticas-para-auditoria-I/downloads/diario_2017_sin_aux.csv"><i class="far fa-file-archive"></i> </a>, `auxiliares_2016.csv` <a href="/Curso-de-Herramientas-analiticas-para-auditoria-I/downloads/auxiliares_2016.csv"><i class="far fa-file-archive"></i> </a>, `diario auxiliares_2017.csv` <a href="/Curso-de-Herramientas-analiticas-para-auditoria-I/downloads/auxiliares_2017.csv"><i class="far fa-file-archive"></i> </a>
 
 
-## [Enlace para descargar todos los ficheros de ejercios en un zip](https://raulbm.github.io/Curso-de-Herramientas-analiticas-para-auditoria-I/donwloads/Ejercicios.zip)
+## [Enlace para descargar todos los ficheros de ejercios en un zip](https://raulbm.github.io/Curso-de-Herramientas-analiticas-para-auditoria-I/downloads/Ejercicios.zip)
 
 ## [SOLUCIONES](https://raulbm.github.io/Curso-de-Herramientas-analiticas-para-auditoria-I/pages/Soluciones.html)
 
