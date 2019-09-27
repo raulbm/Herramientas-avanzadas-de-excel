@@ -12,7 +12,7 @@ La meta es cruzar los inventarios y consolidar los pedidos por referencia y dete
 
 Fichero de trabajo 1 <a href="/Curso-de-Herramientas-analiticas-para-auditoria-I/downloads/17.1.Caso_1.xlsx"><i class="fas fa-file-excel"></i> </a>
 
-*  [Solución Caso 1](/Curso-de-Herramientas-analiticas-para-auditoria-I/downloads/17.1.Caso_1.xlsx)
+*  [Solución Caso 1](/Curso-de-Herramientas-analiticas-para-auditoria-I/downloads/17.1.Solucion_ Caso_1.xlsx)
 
 
 ## Caso 2 - Análisis de ventas
