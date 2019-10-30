@@ -23,9 +23,8 @@
   1.	Agrupar Datos  <a href="/Curso-de-Herramientas-analiticas-para-auditoria-I/downloads/14.Agrupacion_de_datos.xlsx"><i class="fas fa-file-excel"></i> </a>
   1. Manejo de consultas  <a href="/Curso-de-Herramientas-analiticas-para-auditoria-I/downloads/15.Propiedades_de_la_consulta.xlsx"><i class="fas fa-file-excel"></i> </a>
   1. Crear una tabla calendario ( <a href="/Curso-de-Herramientas-analiticas-para-auditoria-I/downloads/16.2.Calculo_de_dias_entre_fechas.xlsx"><i class="fas fa-file-excel"></i> </a>, <a href="/Curso-de-Herramientas-analiticas-para-auditoria-I/downloads/16.3.Calculo_de_dias_en_la_misma_columna.xlsx"><i class="fas fa-file-excel"></i> </a>, <a href="/Curso-de-Herramientas-analiticas-para-auditoria-I/downloads/16.4.Formato_fechas.xlsx"><i class="fas fa-file-excel"></i> </a>)
-  1. Trabajar con columnas (subdividir, nuevas y personalizadas  <a href="/Curso-de-Herramientas-analiticas-para-auditoria-I/downloads/15.Propiedades_de_la_consulta.xlsx"><i class="fas fa-file-excel"></i> </a>
   1. [Casos prácticos](https://raulbm.github.io/Curso-de-Herramientas-analiticas-para-auditoria-I/pages/CasosPracticos123.html)  1 <a href="/Curso-de-Herramientas-analiticas-para-auditoria-I/downloads/17.1.Caso_1.xlsx"><i class="fas fa-file-excel"></i> </a>, 2 <a href="/Curso-de-Herramientas-analiticas-para-auditoria-I/downloads/17.2.Caso_2.xlsx"><i class="fas fa-file-excel"></i> </a> y 3 <a href="/Curso-de-Herramientas-analiticas-para-auditoria-I/downloads/17.3.Caso_3.xlsx"><i class="fas fa-file-excel"></i> </a>
-
+  1. Trabajar con columnas (subdividir, nuevas y personalizadas  <a href="/Curso-de-Herramientas-analiticas-para-auditoria-I/downloads/15.Propiedades_de_la_consulta.xlsx"><i class="fas fa-file-excel"></i> </a>
  
 ## Modelado de Datos (Power Pivot)
   Ejemplos basados en diario contable para obtener como resultado un Balance de comprobación.
@@ -40,6 +39,8 @@
 *	Pocedimiento para comprobar la coincidencia entre apertura y cierre de diarios contables.
 *	Análisis del Ageing de las cuentas a cobrar. <a href="/Curso-de-Herramientas-analiticas-para-auditoria-I/downloads/CP_Demo_BICIS_ageing.xlsx"><i class="fas fa-file-excel"></i> </a>
 *	Obtener un Balance de sumas y saldos o comprobación de la entidad auditada. `diario 2016 sin aux.csv` <a href="/Curso-de-Herramientas-analiticas-para-auditoria-I/downloads/diario_2016_sin_aux.csv"><i class="far fa-file-archive"></i> </a>, `diario 2017 sin aux.csv` <a href="/Curso-de-Herramientas-analiticas-para-auditoria-I/downloads/diario_2017_sin_aux.csv"><i class="far fa-file-archive"></i> </a>, `auxiliares_2016.csv` <a href="/Curso-de-Herramientas-analiticas-para-auditoria-I/downloads/auxiliares_2016.csv"><i class="far fa-file-archive"></i> </a>, `diario auxiliares_2017.csv` <a href="/Curso-de-Herramientas-analiticas-para-auditoria-I/downloads/auxiliares_2017.csv"><i class="far fa-file-archive"></i> </a>
+
+Extra bonus: análisis de tipología de asientos del diario
 
 
 ## [Enlace para descargar todos los ficheros de ejercios en un zip](https://raulbm.github.io/Curso-de-Herramientas-analiticas-para-auditoria-I/downloads/Ejercicios.zip)
