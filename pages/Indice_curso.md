@@ -3,7 +3,7 @@
 # Indice del curso
 
 ## Introducción
-  *	[Intro al autoservicio de BI, ruta de aprendizaje y habilitar los componentes](https://raulbm.github.io/Curso-de-Herramientas-analiticas-para-auditoria-I/pages/IntroAutoservicio.html) 
+  *	[Intro al autoservicio de BI, ruta de aprendizaje y habilitar los componentes](/images/IntroAutoservicio.html) 
   
   
 ## Obtener y Transformar Datos (Power Query)
