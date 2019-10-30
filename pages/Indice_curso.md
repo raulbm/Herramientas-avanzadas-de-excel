@@ -7,7 +7,7 @@
   
   
 ## Obtener y Transformar Datos (Power Query)
-  1.  [Obteniendo Datos](/images/EntornoEditorPQ.PNG)
+  1.  [Obteniendo Datos](/Curso-de-Herramientas-analiticas-para-auditoria-I/images/EntornoEditorPQ.PNG)
   1.	[Conectar a un Archivo Plano](https://raulbm.github.io/Curso-de-Herramientas-analiticas-para-auditoria-I/pages/2.ConectarArchivoTexto.html)  (CSV <a href="/Curso-de-Herramientas-analiticas-para-auditoria-I/downloads/2.Producción_2015.CSV"><i class="far fa-file-code"></i> </a>, TXT <a href="/Curso-de-Herramientas-analiticas-para-auditoria-I/downloads/2.Producción_1999.txt"><i class="far fa-file-code"></i> </a>, TAB) 
   1.	[Conectar a un Archivo de Excel en Uso](https://raulbm.github.io/Curso-de-Herramientas-analiticas-para-auditoria-I/pages/3.DesdeUnaTabla.html)  ( <a href="/Curso-de-Herramientas-analiticas-para-auditoria-I/downloads/3.Ventas_Por_Pais_1.xlsx"><i class="fas fa-file-excel"></i> </a>,  <a href="/Curso-de-Herramientas-analiticas-para-auditoria-I/downloads/3.Ventas_Por_Pais_2.xlsx"><i class="fas fa-file-excel"></i> </a>)
   1.	[Conectar a un Archivo de Excel Externo](https://raulbm.github.io/Curso-de-Herramientas-analiticas-para-auditoria-I/pages/4.DesdeExcelExterno.html)  <a href="/Curso-de-Herramientas-analiticas-para-auditoria-I/downloads/4.Ventas_Pedidos.xlsx"><i class="fas fa-file-excel"></i> </a>
