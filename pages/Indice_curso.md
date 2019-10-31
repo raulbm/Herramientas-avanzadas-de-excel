@@ -51,4 +51,4 @@ Extra bonus: análisis de tipología de asientos del diario
 ## [ENLACES DE INTERES](https://raulbm.github.io/Curso-de-Herramientas-analiticas-para-auditoria-I/pages/EnlacesBlogsInteresantes.html)
 
 
-## ENCUESTA(https://es.surveymonkey.com/r/RRXDNDG)
+## [ENCUESTA](https://es.surveymonkey.com/r/RRXDNDG)
