@@ -1,0 +1,5 @@
+Utilice la información siguiente para conectarse a la base de datos SQL.
+Servidor: msedxeus.database.windows.net
+Base de datos: DAT206x01
+Login: ExcelLogin (recuerde seleccionar el inicio de sesión de la base de datos)
+Contraseña: P@ssw0rd
