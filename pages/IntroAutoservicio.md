@@ -16,13 +16,13 @@ Con la aparición de los elementos Power en Excel (POwer Query, Power Pivot, Pow
 
 Aunque todo está bajo un mismo producto –Excel 2013, 2016 y 2019- y bajo un mismo archivo “.xlsx”, en la siguiente imagen, junto con las definiciones anteriores, puede ayudarles a tener una visión global más clara de todos estos complementos, así como las características y funcionalidades de cada uno de ellos.
 
-![Power Tools](https://blogs.solidq.com/wp-content/uploads/2015/08/image_thumb_4FD2FBDB.png)
+![Power Tools](/Curso-de-Herramientas-analiticas-para-auditoria-I/images/image_thumb_4FD2FBDB.png)
 Fuente: Solidq
 
 
 # Ruta de aprendizaje y habilitar los componentes
 
-En las versiones de Excel 2019 y 2016 Power Query está integrado en el menú de Datos de Excel, sin embargo en las versiones anteriores se trata de un complemento que es preciso habilitar. Lo mismo ocurría con Power Pivot
+En las versiones de Excel 2019 y 2016 Power Query está integrado en el menú de Datos de Excel, sin embargo en las versiones anteriores se trata de un complemento que es preciso habilitar. Lo mismo ocurría con Power Pivot.
 
 A continuación se facilitan enlaces explicativos de como habilitar dichos complementos en Excel 2013.
 
