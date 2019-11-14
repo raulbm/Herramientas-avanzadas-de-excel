@@ -50,5 +50,8 @@ Extra bonus: análisis de tipología de asientos del diario
 
 ## [ENLACES DE INTERES](https://raulbm.github.io/Curso-de-Herramientas-analiticas-para-auditoria-I/pages/EnlacesBlogsInteresantes.html)
 
+## [ENCUESTA: Curso I Oviedo 14-15/11/2019](https://es.surveymonkey.com/r/V5RDPDV)
 
-## [ENCUESTA](https://es.surveymonkey.com/r/RRXDNDG)
+
+
+## [ENCUESTA: Curso I Zaragoza 30/10/2019](https://es.surveymonkey.com/r/RRXDNDG)
