@@ -29,8 +29,8 @@
 ## Modelado de Datos (Power Pivot)
   Ejemplos basados en diario contable para obtener como resultado un Balance de comprobación.
   1.	Tablas Dinámicas Tradicionales vs Tablas Dinámicas Modernas
-  1.	Las herramientas y el Modelo de Datos <a href="/Curso-de-Herramientas-analiticas-para-auditoria-I/downloads/El_modelo_de_datos_en_Power_Pivot.docx"><i class="far fa-file-word"></i> </a>  
-  1.  Relaciones entre Tablas
+  1.	[Las herramientas y el Modelo de Datos](https://raulbm.github.io/Curso-de-Herramientas-analiticas-para-auditoria-I/pages/ModeloDeDatos.html)
+  1.  <a target="_blank" href="https://support.office.com/es-es/article/crear-relaciones-en-la-vista-de-diagrama-de-power-pivot-12e00cb6-cb4d-469c-97ce-caa08349ad76">Relaciones entre Tablas</a>
   1.	Columnas Calculadas y Medidas
 
 ## Casos prácticos

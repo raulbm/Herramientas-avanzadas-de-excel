@@ -3,7 +3,7 @@
 
 # Introducción al autoservicio de BI
 
-Con la aparición de los elementos Power en Excel (POwer Query, Power Pivot, Power View y Power Maps) se dota a capacidades extraordinarias de Inteligencia de Negocios a los usuarios finales, antes sólo reservadas a herramientas de BI muy costosas y complejas.
+Con la aparición de los elementos Power en Excel (Power Query, Power Pivot, Power View y Power Maps) se dota a capacidades extraordinarias de Inteligencia de Negocios a los usuarios finales, antes sólo reservadas a herramientas de BI muy costosas y complejas.
 
 
 * **Power Query**: Solución para obtener datos fácilmente, sea su origen público o privado, con funcionalidades de búsqueda de datos, transformaciones y limpieza de los mismos de cara a su explotación en Excel (conocido anteriormente con el nombre de “Data Explorer”).
