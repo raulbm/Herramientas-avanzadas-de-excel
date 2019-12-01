@@ -45,9 +45,9 @@ Uno de los mayores esfuerzos que realiza un contable a diario es tratar de organ
 La información de partida es un balance de comprobación exportado desde el sistema contable, el objetivo es consolidar los datos por grupos o cuentas principales para realizar los respectivos informes.
 
 Tenemos varios inconvenientes:
-▪ La columna cuenta en cada registro tiene espacios al final, por tal razón no está en tipo número.
-▪ La cuenta tiene un nivel mínimo de 2 dígitos. Para los informes los necesitamos a partir del grupo o cuenta mayor, 1 dígito.
-▪ Se debe consolidar la información.
+* La columna cuenta en cada registro tiene espacios al final, por tal razón no está en tipo número.
+* La cuenta tiene un nivel mínimo de 2 dígitos. Para los informes los necesitamos a partir del grupo o cuenta mayor, 1 dígito.
+* Se debe consolidar la información.
 
 Fichero de trabajo 3 <a href="/Curso-de-Herramientas-analiticas-para-auditoria-I/downloads/17.3.Caso_3.xlsx"><i class="fas fa-file-excel"></i> </a>
 

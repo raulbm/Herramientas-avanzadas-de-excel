@@ -16,8 +16,7 @@ Con la aparición de los elementos Power en Excel (POwer Query, Power Pivot, Pow
 
 Aunque todo está bajo un mismo producto –Excel 2013, 2016 y 2019- y bajo un mismo archivo “.xlsx”, en la siguiente imagen, junto con las definiciones anteriores, puede ayudarles a tener una visión global más clara de todos estos complementos, así como las características y funcionalidades de cada uno de ellos.
 
-![Power Tools](/Curso-de-Herramientas-analiticas-para-auditoria-I/images/image_thumb_4FD2FBDB.png)
-Fuente: Solidq
+![Power Tools](/Curso-de-Herramientas-analiticas-para-auditoria-I/images/ProcesoETL.png)
 
 
 # Ruta de aprendizaje y habilitar los componentes
