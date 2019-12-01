@@ -31,7 +31,7 @@
   1.	[Tablas Dinámicas Tradicionales vs Tablas Dinámicas Modernas](https://raulbm.github.io/Curso-de-Herramientas-analiticas-para-auditoria-I/pages/TablasDinamicas.html)
   1.	[Las herramientas y el Modelo de Datos](https://raulbm.github.io/Curso-de-Herramientas-analiticas-para-auditoria-I/pages/ModeloDeDatos.html)
   1.  <a target="_blank" href="https://support.office.com/es-es/article/crear-relaciones-en-la-vista-de-diagrama-de-power-pivot-12e00cb6-cb4d-469c-97ce-caa08349ad76">Relaciones entre Tablas</a>
-  1.	Columnas Calculadas y Medidas
+  1.	[DAX, Columnas Calculadas y Medidas](https://raulbm.github.io/Curso-de-Herramientas-analiticas-para-auditoria-I/pages/DaxColumnasCalculadasMedidas.html)
 
 ## [Casos prácticos](https://raulbm.github.io/Curso-de-Herramientas-analiticas-para-auditoria-I/pages/CasosPracticos.html)
 *	CP 1: Importar diarios contables procedentes de diferentes fuentes y tratar las peculiaridades de los diferentes formatos de cada uno y obtener un Balance de sumas y saldos o comprobación de la entidad auditada. `diario 2016 sin aux.csv` <a href="/Curso-de-Herramientas-analiticas-para-auditoria-I/downloads/diario_2016_sin_aux.csv"><i class="far fa-file-archive"></i> </a>, `diario 2017 sin aux.csv` <a href="/Curso-de-Herramientas-analiticas-para-auditoria-I/downloads/diario_2017_sin_aux.csv"><i class="far fa-file-archive"></i> </a>, `auxiliares_2016.csv` <a href="/Curso-de-Herramientas-analiticas-para-auditoria-I/downloads/auxiliares_2016.csv"><i class="far fa-file-archive"></i> </a>, `diario auxiliares_2017.csv` <a href="/Curso-de-Herramientas-analiticas-para-auditoria-I/downloads/auxiliares_2017.csv"><i class="far fa-file-archive"></i> </a>
