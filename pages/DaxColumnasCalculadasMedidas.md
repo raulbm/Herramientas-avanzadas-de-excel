@@ -30,10 +30,12 @@ Muy importante: La expresión debe comenzar con el signo  =
 
 Es posible crear tantas columnas calculadas como se desee, pero lo recomendable es no crear demasiadas ya que su número será inversamente proporcional al rendimiento de power pivot. Por tanto, cuidado… 
 
-Al crear las columnas, y es válido también para las medidas, es muy recomendable asignar el formato adecuado. Esta asignación hecha en el modelo de datos permite que ya aparezca con formato cuando se utilice en los gráficos y tablas dinámicas. Recomendación: No olvidar dar formato en el modelo a cada columna y medida que se vaya a utilizar.
+Al crear las columnas, y es válido también para las medidas, es muy recomendable asignar el formato adecuado. Esta asignación hecha en el modelo de datos permite que ya aparezca con formato cuando se utilice en los gráficos y tablas dinámicas.
 ![DAX_formato](/Curso-de-Herramientas-analiticas-para-auditoria-I/images/DAX_formato.png)
 
-De esta forma, definimos en una nueva columna calculada
+> Recomendación: No olvidar dar formato en el modelo a cada columna y medida que se vaya a utilizar.
+
+De esta forma, definimos una expresión en una nueva columna calculada
 ![DAX_columna_calculada](/Curso-de-Herramientas-analiticas-para-auditoria-I/images/DAX_calculo_columna.png)
 
 
