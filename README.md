@@ -42,5 +42,5 @@ Podrán impartir la formación indistintamente:
 Este curso se realiza en 8 horas presenciales. 
 
 # Programa: (8h)
-[Enlace al programa y material de trabajo](/pages/Indice_curso.md)
+[Enlace al programa y material de trabajo](https://raulbm.github.io/Curso-de-Herramientas-analiticas-para-auditoria-I/pages/Indice_curso.html)
 
