@@ -50,22 +50,17 @@ CP 5: Análisis de tipología de asientos del diario
 
 ## [ENLACES DE INTERES](https://raulbm.github.io/Curso-de-Herramientas-analiticas-para-auditoria-I/pages/EnlacesBlogsInteresantes.html)
 
-## [ENCUESTA: Curso I Oviedo 14-15/11/2019](https://es.surveymonkey.com/r/V5RDPDV)
+## [ENCUESTA: Curso I Palma de Mallorca 10/03/2020](https://es.surveymonkey.com/r/GK8XLLN)
 
 
-
-## [ENCUESTA: Curso I Zaragoza 30/10/2019](https://es.surveymonkey.com/r/RRXDNDG)
-
-### Nuestros contactos: 
+### Mi contacto: 
 <table border="0">
 	<tbody>
 		<tr>
 			<td>raulbm @ mundiaudit.com</td>
-			<td>ignacioll @ mundiaudit.com</td>
 		</tr>
 		<tr>
 			<td><a href="https://www.linkedin.com/in/raulbm/"><img src="/Curso-de-Herramientas-analiticas-para-auditoria-II/images/LinkedInConnectButton.jpg"></a></td>
-			<td><a href="https://www.linkedin.com/in/ignacio-lópez-lópez-13873a100/"><img src="/Curso-de-Herramientas-analiticas-para-auditoria-II/images/LinkedInConnectButton.jpg"></a></td>
 		</tr>
 	</tbody>
 </table>

@@ -23,5 +23,3 @@
 
 <iframe src="https://player.vimeo.com/video/376582161" width="640" height="342" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-
-![Agrupar por](/Curso-de-Herramientas-analiticas-para-auditoria-I/images/14.AgruparPor2.png)
