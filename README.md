@@ -31,12 +31,9 @@ El ordenador portátil deberá cumplir con la siguiente configuración mínima:
 
 
 # Formador
-Podrán impartir la formación indistintamente:
 
 *	Sr. D. Raúl Benavente. Economista y Auditor ROAC y CISA, responsable de TI, experto en sistemas de información y consultor BI en Mundiaudit SL. Además, ha sido director Financiero y Controller en diferentes empresas.  
 
-*	Sr. Ignacio López López. Economista y Analista de datos en Mundiaudit, con experiencia en el diseño de sistemas de Cuadros de Mando mediante indicadores, aplicación de técnicas estadísticas y de machine learning a casos de uso empresarial.
- 
 
 # Duración  
 Este curso se realiza en 8 horas presenciales. 
