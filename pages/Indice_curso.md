@@ -33,10 +33,11 @@
   1.  <a target="_blank" href="https://support.office.com/es-es/article/crear-relaciones-en-la-vista-de-diagrama-de-power-pivot-12e00cb6-cb4d-469c-97ce-caa08349ad76">Relaciones entre Tablas</a>
   1.	[DAX, Columnas Calculadas y Medidas](https://raulbm.github.io/Curso-de-Herramientas-analiticas-para-auditoria-I/pages/DaxColumnasCalculadasMedidas.html)
 
-## [Casos prácticos](https://raulbm.github.io/Curso-de-Herramientas-analiticas-para-auditoria-I/pages/CasosPracticos.html)
+## Casos prácticos 
+[//]: <> (https://raulbm.github.io/Curso-de-Herramientas-analiticas-para-auditoria-I/pages/CasosPracticos.html)
 *	CP 1: Importar diarios contables procedentes de diferentes fuentes y tratar las peculiaridades de los diferentes formatos de cada uno y obtener un Balance de sumas y saldos o comprobación de la entidad auditada. `diario 2016 sin aux.csv` <a href="/Curso-de-Herramientas-analiticas-para-auditoria-I/downloads/diario_2016_sin_aux.csv"><i class="far fa-file-archive"></i> </a>, `diario 2017 sin aux.csv` <a href="/Curso-de-Herramientas-analiticas-para-auditoria-I/downloads/diario_2017_sin_aux.csv"><i class="far fa-file-archive"></i> </a>, `auxiliares_2016.csv` <a href="/Curso-de-Herramientas-analiticas-para-auditoria-I/downloads/auxiliares_2016.csv"><i class="far fa-file-archive"></i> </a>, `diario auxiliares_2017.csv` <a href="/Curso-de-Herramientas-analiticas-para-auditoria-I/downloads/auxiliares_2017.csv"><i class="far fa-file-archive"></i> </a>
 *	CP 2: Cuadre de Bases imponibles y cuotas entre el Libro diario y el Libro registro de IVA 
-*	CP 3: Pocedimiento para comprobar la coincidencia entre apertura y cierre de diarios contables.
+*	CP 3: Procedimiento para comprobar la coincidencia entre apertura y cierre de diarios contables.
 *	CP 4: Análisis del Ageing de las cuentas a cobrar. <a href="/Curso-de-Herramientas-analiticas-para-auditoria-I/downloads/CP_Demo_BICIS_ageing.xlsx"><i class="fas fa-file-excel"></i> </a>
 
 Extra bonus: 
