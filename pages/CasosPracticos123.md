@@ -24,8 +24,8 @@ El objetivo es determinar mes a mes cual es el mayor cliente que tiene cada vend
 Fichero de trabajo  2 <a href="/Curso-de-Herramientas-analiticas-para-auditoria-I/downloads/17.2.Caso_2.xlsx"><i class="fas fa-file-excel"></i> </a> 
 
 1. Agrupamos por MES y VENDEDOR con nuevas columnas Total (Suma) y Detalle (Todas las filas)
-2. Expandir
-3. Agregar columna personalizada -> Ingresar esta fórmula -> `Table. Max([DETALLE],"VENTAS")`
+2. Agregar columna personalizada -> Ingresar esta fórmula -> `Table. Max([DETALLE],"VENTAS")`
+3. Expandir
 4. Eliminamos la columna DETALLE -> Cambiar nombre de columna VENTAS “VENTA MAX” -> Tipo de dato -> Número entero.
 
 Por último, sólo nos queda calcular el porcentaje de venta de cada cliente sobre el total por vendedor y mes.
@@ -35,20 +35,3 @@ Por último, sólo nos queda calcular el porcentaje de venta de cada cliente sob
 
 
 *  [Solución Caso 2](/Curso-de-Herramientas-analiticas-para-auditoria-I/downloads/17.2.Solucion_Caso_2.xlsx)
-
-
-## Caso 3 - Consolidar información contable
-
-Uno de los mayores esfuerzos que realiza un contable a diario es tratar de organizar y consolidar los datos para la presentación de informes, les toma mucho tiempo semanal o mensual el actualizar periodicamente esos informes. Veamos varios trucos y funciones con Power Query que son de utilidad para ese trabajo recurrente.
-
-
-La información de partida es un balance de comprobación exportado desde el sistema contable, el objetivo es consolidar los datos por grupos o cuentas principales para realizar los respectivos informes.
-
-Tenemos varios inconvenientes:
-* La columna cuenta en cada registro tiene espacios al final, por tal razón no está en tipo número.
-* La cuenta tiene un nivel mínimo de 2 dígitos. Para los informes los necesitamos a partir del grupo o cuenta mayor, 1 dígito.
-* Se debe consolidar la información.
-
-Fichero de trabajo 3 <a href="/Curso-de-Herramientas-analiticas-para-auditoria-I/downloads/17.3.Caso_3.xlsx"><i class="fas fa-file-excel"></i> </a>
-
-*  [Solución Caso 3](/Curso-de-Herramientas-analiticas-para-auditoria-I/downloads/17.3.Solucion_Caso_3.xlsx)
