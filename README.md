@@ -35,5 +35,5 @@ El ordenador portátil deberá cumplir con la siguiente configuración mínima:
 *	Sr. D. Raúl Benavente. Economista y Auditor ROAC y CISA, responsable de TI, experto en sistemas de información y consultor BI en Mundiaudit SL. Además, ha sido director Financiero y Controller en diferentes empresas.  
 
 # Programa:
-[Enlace al programa y material de trabajo](https://raulbm.github.io/Curso-de-Herramientas-analiticas-para-auditoria-I/pages/Indice_curso.html)
+[Enlace al programa y material de trabajo](https://raulbm.github.io/Herramientas-avanzadas-de-excel/pages/Indice_curso.html)
 
