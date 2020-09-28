@@ -51,8 +51,6 @@ CP 5: Análisis de tipología de asientos del diario
 
 ## [ENLACES DE INTERES](https://raulbm.github.io/Curso-de-Herramientas-analiticas-para-auditoria-I/pages/EnlacesBlogsInteresantes.html)
 
-## [ENCUESTA: Curso I Palma de Mallorca 10/03/2020](https://es.surveymonkey.com/r/GK8XLLN)
-
 
 ### Mi contacto: 
 <table border="0">
