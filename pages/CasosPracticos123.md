@@ -1,4 +1,4 @@
-##### [Volver](/Curso-de-Herramientas-analiticas-para-auditoria-I/pages/Indice_curso.html)
+##### [Volver](/Herramientas-avanzadas-de-excel/pages/Indice_curso.html)
 <script src="https://kit.fontawesome.com/065728df02.js" crossorigin="anonymous"></script>
 # Indice del curso
 
@@ -10,9 +10,9 @@ Tenemos dos tablas, una de los inventarios disponibles, y la otra tabla es la tr
 
 La meta es cruzar los inventarios y consolidar los pedidos por referencia y determinar si dicho inventario cubre la cantidad de pedidos.
 
-Fichero de trabajo 1 <a href="/Curso-de-Herramientas-analiticas-para-auditoria-I/downloads/17.1.Caso_1.xlsx"><i class="fas fa-file-excel"></i> </a>
+Fichero de trabajo 1 <a href="/Herramientas-avanzadas-de-excel/downloads/17.1.Caso_1.xlsx"><i class="fas fa-file-excel"></i> </a>
 
-*  [Solución Caso 1](/Curso-de-Herramientas-analiticas-para-auditoria-I/downloads/17.1.Solucion_ Caso_1.xlsx)
+*  [Solución Caso 1](/Herramientas-avanzadas-de-excel/downloads/17.1.Solucion_ Caso_1.xlsx)
 
 
 ## Caso 2 - Análisis de ventas
@@ -21,7 +21,7 @@ La parte comercial en una compañía es un área muy determinante para sus opera
 
 El objetivo es determinar mes a mes cual es el mayor cliente que tiene cada vendedor y su porcentaje de participación.
 
-Fichero de trabajo  2 <a href="/Curso-de-Herramientas-analiticas-para-auditoria-I/downloads/17.2.Caso_2.xlsx"><i class="fas fa-file-excel"></i> </a> 
+Fichero de trabajo  2 <a href="/Herramientas-avanzadas-de-excel/downloads/17.2.Caso_2.xlsx"><i class="fas fa-file-excel"></i> </a> 
 
 1. Agrupamos por MES y VENDEDOR con nuevas columnas Total (Suma) y Detalle (Todas las filas)
 2. Agregar columna personalizada -> Ingresar esta fórmula -> `Table. Max([DETALLE],"VENTAS")`
@@ -34,4 +34,4 @@ Por último, sólo nos queda calcular el porcentaje de venta de cada cliente sob
 * Agregar columna -> Estándar -> Dividir
 
 
-*  [Solución Caso 2](/Curso-de-Herramientas-analiticas-para-auditoria-I/downloads/17.2.Solucion_Caso_2.xlsx)
+*  [Solución Caso 2](/Herramientas-avanzadas-de-excel/downloads/17.2.Solucion_Caso_2.xlsx)
